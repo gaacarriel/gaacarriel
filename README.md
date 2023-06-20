@@ -9,9 +9,9 @@
 
 <br/>
 
-- 👨‍💻 Desenvolvedor Full Stack 
-- 🔎 Procuro vagas Front End, Back End e Full Stack
-- 📚 Estudando Next, Nest, e SASS
+- 👨‍💻 Desenvolvedor Full Stack;
+- 🔎 Procuro vagas Front End, Back End e Full Stack;
+- 📚 Estudando Next, Nest, e SASS;
 
 <br/>
 
