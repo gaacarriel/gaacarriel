@@ -9,9 +9,9 @@
 
 <br/>
 
-- 👨‍💻 Desenvolvedor Full Stack;
+- 👨‍💻 Desenvolvedor Full Stack na EfexHub;
 - 🔎 Procuro vagas Front End, Back End e Full Stack;
-- 📚 Estudando Next, Nest, e SASS;
+- 📚 Estudando Next;
 
 <br/>
 
